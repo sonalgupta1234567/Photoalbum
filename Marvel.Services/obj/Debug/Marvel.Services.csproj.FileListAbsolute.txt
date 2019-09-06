@@ -1,0 +1,8 @@
+C:\Users\Sonal\Documents\DisneyTech\Marvel\Marvel.Services\bin\Debug\Marvel.Services.dll
+C:\Users\Sonal\Documents\DisneyTech\Marvel\Marvel.Services\bin\Debug\Marvel.Services.pdb
+C:\Users\Sonal\Documents\DisneyTech\Marvel\Marvel.Services\bin\Debug\RestSharp.dll
+C:\Users\Sonal\Documents\DisneyTech\Marvel\Marvel.Services\bin\Debug\RestSharp.xml
+C:\Users\Sonal\Documents\DisneyTech\Marvel\Marvel.Services\obj\Debug\Marvel.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sonal\Documents\DisneyTech\Marvel\Marvel.Services\obj\Debug\Marvel.Services.csproj.CopyComplete
+C:\Users\Sonal\Documents\DisneyTech\Marvel\Marvel.Services\obj\Debug\Marvel.Services.dll
+C:\Users\Sonal\Documents\DisneyTech\Marvel\Marvel.Services\obj\Debug\Marvel.Services.pdb
